@@ -1,0 +1,4 @@
+Dealership Inventory:
+Inventory Number | Make          | Model         | Color         | Year | Mileage
+1                | Dodge          | Dart           | White          | 2013 | 150000 
+2                | Subaru         | Outback        | Blue           | 2017 | 163000 
